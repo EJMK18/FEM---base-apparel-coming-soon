@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Solution Screenshot](images/readme_screenshot.png)
+![Project Solution Screenshot](images/readme_screenshot.jpg)
 
 ### Links
 
